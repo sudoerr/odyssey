@@ -1,6 +1,9 @@
 # Odyssey, ESP32 File Drive
 
-Odyssey transforms the ESP32 into a lightweight file drive server with an integrated WebApp. Using a Micro SD card, it allows you to easily store, organize, and serve files through a modern and responsive user interface.
+Odyssey transforms the ESP32 into a lightweight file drive server with an integrated WebApp. Using a Micro SD card, it allows you to easily store, organize, and serve files through a modern and responsive user interface.  
+
+
+<video src="./Odyssey.mp4" controls></video>  
 
 ## Features
 

@@ -67,6 +67,18 @@ selectors.elements.controlPanel.items.addEventListener("click", (e)=>{
 });
 
 
+selectors.elements.controlPanel.openCloseButton.addEventListener("click", ()=>{
+    if (selectors.elements.root.getAttribute("controlpanel") == "open") {
+        UIComponents.view.setControlPanel("close");
+    } else {
+        UIComponents.view.setControlPanel("open");
+    }
+});
+
+
+window.addEventListener("resize", ()=>{
+    UIComponents.window.structWindowFrames();
+});
 
 
 // POPUP ---------------------------------
