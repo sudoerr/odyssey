@@ -2,13 +2,13 @@
 
 @font-face {
   font-family: "Nunito";
-  src: url("./fonts/Nunito/Nunito-VariableFont_wght.ttf");
+  src: url("../fonts/Nunito/Nunito-VariableFont_wght.ttf");
   font-style: normal;
 }
 
 @font-face {
   font-family: "Nunito";
-  src: url("./fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf");
+  src: url("../fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf");
   font-style: italic;
 }
 
